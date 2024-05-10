@@ -1,3 +1,12 @@
+# Douglas Notes
+
+* Certs might need to be recreated. If so, go to Match Secrets and delete the file distribtuions and delete them and commit.
+* Then run Create Certs
+* Then run Build.
+* Once built, you may need to wait for it to appear in Test Flight. It will say processing for a bit.
+* Once it says "Ready to submit" it should appear in Test Flight
+* Check status here: https://appstoreconnect.apple.com/apps/6450426480/testflight/ios
+
 # LoopWorkspace
 
 The Loop app can be built using GitHub workflows in the cloud from a browser on any computer or using a Mac with Xcode.
